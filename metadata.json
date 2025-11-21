@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Memos",
+  "description": "A lightweight, AI-enhanced privacy-first note-taking service inspired by Memos. Features timeline view, markdown support, tagging, and a Gemini-powered knowledge assistant.",
+  "requestFramePermissions": []
+}
